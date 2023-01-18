@@ -1,7 +1,7 @@
 # Facify - Get Secure with us!
 
 ### Hackathon project for [HackNITR 4.0](https://www.hacknitr.com/) 
-### Sponsors : ```MLH, Polygon, Solana, Replit, Shardeum, Filecoin, Devfolio```
+### Sponsors : ```MLH, Polygon, Solana, Replit, Velo by Wix, Shardeum, Filecoin, Devfolio```
 
 ## Table of Contents
 + [About](#about)
