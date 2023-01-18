@@ -45,7 +45,7 @@ After having your file at your local machine you can follow the following steps:
 Go to your command line and then :
 
 ```
-C:\bibs24> cd <your-project-directory>
+C:\akashjaiswal797112> cd <your-project-directory>
 ```
 Following steps should only be followed if you dont have the dependencies:
 
@@ -61,7 +61,7 @@ pip install joblib
 And at last 
 
 ```
-C:\bibs24\your-project-directory> flask run
+C:\akashjaiswal797112\your-project-directory> flask run
 ```
 Yayyy!! You have your flask app running.
 
@@ -77,6 +77,7 @@ The working demo! [Link](https://youtu.be/7zMAs_vf-Hs)
 
 ## Authors
 
-- [Bibhu Prasad Saha](https://www.github.com/bibs24)
 - [Akash Jaiswal](https://www.github.com/akashjaiswal797112)
+- [Bibhu Prasad Saha](https://www.github.com/bibs24)
+
 
